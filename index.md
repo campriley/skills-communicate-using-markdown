@@ -10,6 +10,7 @@ var prompt = 'hello world';
 - [X] Task
 - [X] Completed
 - [ ] Not Completed
+- [ ] Walk
 
 
       
